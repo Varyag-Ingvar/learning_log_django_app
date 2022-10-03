@@ -14,7 +14,7 @@ pip install -r requirements.txt
 python manage.py makemigrations
 python manage.py migrate
 ```
-* Запустите приложение
+* Запустите приложение:
 ```bash
 python manage.py runserver
 ```
